@@ -1,0 +1,3 @@
+--platform=linux/amd64
+openmetadata/ingestion:1.6.1
+openmetadata/server:1.6.1
